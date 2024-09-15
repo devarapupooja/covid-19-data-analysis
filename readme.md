@@ -6,7 +6,7 @@ Initialized by Azure Data Factory!
 The goal of this project is to perform data analytics on Covid-19 data using various tools and technologies, including Azure Data Factory, Python, datalake gen2, azure blob storage, powerbi, and devops .
 
 ## Architecture 
-<img src="covid 19 project architecture.png>"
+<img src="covid 19 project architecture.png">
 
 
 ## Technology Used
