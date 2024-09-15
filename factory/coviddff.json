@@ -1,0 +1,9 @@
+{
+	"name": "coviddff",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3f76174b-e2aa-4f23-aeb1-7731e4a9ea66",
+		"tenantId": "fdad5587-b5aa-4a62-982f-8c2c7d511b20"
+	}
+}
